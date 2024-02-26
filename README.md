@@ -1,6 +1,6 @@
 ### Hi👋, I am Sushil Gupta
 
-- 🔭 I’m currently working on Data Science project - Hotel Booking Analysis 
+- 🔭 I’m currently working on Data Science end to end projects
 - 🌱 I’m currently learning Data Science, Advanced Data Analytics
 - 🤔 I’m looking for help with New Job Opportunities in Data Science/ Data Analyst
 - 💬 Ask me about Data Science and Data Analytics
